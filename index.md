@@ -30,7 +30,8 @@
       <p><b>Computer network architecture</b></p>      
     </td>       
   </tr> 
+<tr>
 Thank you for your attention~
-
+</tr>
 </table>
 
