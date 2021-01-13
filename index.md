@@ -21,6 +21,6 @@
       <p><b>2019-now:     Southeast University,                     Cyberspace Security</b></p>
       <p><b>2015-2019:    NorthChina Electric Power University,     Internet of Things</b></p>
     </td> 
-</tr>
+ </tr>
 </table>
 
