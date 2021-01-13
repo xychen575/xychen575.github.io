@@ -11,7 +11,13 @@
     </td>
   </tr>
 </table>
-Research direction：
-  Network management
-  network security
-  Analysis of encrypted traffic
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1> Research direction</h1>  
+      <p><b>Network management</b></p>
+      <p><b>network security</b></p>
+      <p><b>Analysis of encrypted traffic</b></p>      
+    </td>    
+  </tr>
+</table>
