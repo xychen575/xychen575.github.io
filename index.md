@@ -17,10 +17,9 @@
   </tr>
   <tr>
     <td width="100%">
-      <h1> Educational Background</h1>  
-      <p><b>Year         University                               Major</b></p>    
-      <p><b>2019-now     Southeast University                     Cyberspace Security</b></p>
-      <p><b>2015-2019    NorthChina Electric Power University     Internet of Things Engineering   
+      <h1> Educational Background</h1>      
+      <p><b>2019-now:     Southeast University,                     Cyberspace Security</b></p>
+      <p><b>2015-2019:    NorthChina Electric Power University,     Internet of Things Engineering   
     </td> 
 </tr>
 </table>
