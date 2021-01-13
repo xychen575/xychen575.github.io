@@ -31,7 +31,9 @@
     </td>       
   </tr> 
 <tr>
-Thank you for your attention~
+  <td width="100%">
+    Thank you for your attention~
+   </td>  
 </tr>
 </table>
 
