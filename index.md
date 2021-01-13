@@ -7,7 +7,7 @@
       <p><b>Email：xychen@njnet.edu.cn</b></p>      
     </td>
     <td width="25%">
-      <img src="/1.jpeg" width="100%">      % 插入证件照代码
+      <img src="/1.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
