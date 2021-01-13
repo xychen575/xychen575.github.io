@@ -18,8 +18,8 @@
   <tr>
     <td width="100%">
       <h1> Educational Background</h1>      
-      <p><b>2019-now:     Southeast University,                     Cyberspace Security</b></p>
-      <p><b>2015-2019:    NorthChina Electric Power University,     Internet of Things</b></p>
+      <p><b>2019-now :     Southeast University,   Cyberspace Security</b></p>
+      <p><b>2015-2019:     NCEPU,                  Internet of Things Engineering</b></p>
     </td> 
  </tr>
   <tr>
@@ -29,8 +29,8 @@
       <p><b>Data structure、Operating system</b></p>
       <p><b>Computer network architecture</b></p>      
     </td>       
-  </tr>
-
+  </tr> 
+Thank you for your attention~
 
 </table>
 
