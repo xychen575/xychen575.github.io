@@ -7,7 +7,11 @@
       <p><b>Email：xychen@njnet.edu.cn</b></p>      
     </td>
     <td width="25%">
-      <img src="/1.jpg" width="100%">      % 插入证件照代码
+      <img src="/1.jpg" width="100%">      % Picture
     </td>
   </tr>
 </table>
+Research direction：
+  Network management
+  network security
+  Analysis of encrypted traffic
