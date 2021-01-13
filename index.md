@@ -11,7 +11,7 @@
   <td width="100%">
       <h1> Research direction</h1>  
       <p><b>Network management</b></p>
-      <p><b>network security</b></p>
+      <p><b>Network security</b></p>
       <p><b>Analysis of encrypted traffic</b></p>      
     </td> 
   </tr>
@@ -22,5 +22,15 @@
       <p><b>2015-2019:    NorthChina Electric Power University,     Internet of Things</b></p>
     </td> 
  </tr>
+  <tr>
+    <td width="100%">
+      <h1>Major courses</h1>
+      <p><b>Measurement of  network</b></p>
+      <p><b>Data structure、Operating system</b></p>
+      <p><b>Computer network architecture</b></p>      
+    </td>       
+  </tr>
+
+
 </table>
 
