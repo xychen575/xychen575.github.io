@@ -32,7 +32,7 @@
   </tr> 
 <tr>
   <td width="100%">
-    Thank you for your attention~
+    <h1>Thank you for your attention~</h1>
    </td>  
 </tr>
 </table>
